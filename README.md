@@ -122,7 +122,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajjakhar04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankajjakhar04&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pankajjakhar04&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)](https://git.io/streak-stats)
 
 </div>
 
