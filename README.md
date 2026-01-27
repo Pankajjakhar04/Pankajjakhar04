@@ -17,7 +17,7 @@
 
 > Final-year Computer Science student passionate about building scalable, intelligent solutions through full-stack development and AI innovation. I transform complex problems into elegant, user-centric applications that drive measurable impact.
 
-- 🎓 **B.E. Computer Science** | Chandigarh University (CGPA: 8.01) — Expected Graduation: June 2025
+- 🎓 **B.E. Computer Science** | Chandigarh University (CGPA: 8.01) — Expected Graduation: June 2026
 - 🔬 **IEEE Published Researcher** with 2 peer-reviewed conference papers in ML & Image Processing
 - 💼 **J.P. Morgan** Software Engineering Virtual Experience Graduate
 - 🌍 Based in **Mohali, Punjab** | Open to remote & on-site opportunities
